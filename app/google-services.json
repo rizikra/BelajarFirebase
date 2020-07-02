@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "583970052030",
+    "firebase_url": "https://belajarfirebase-69e64.firebaseio.com",
+    "project_id": "belajarfirebase-69e64",
+    "storage_bucket": "belajarfirebase-69e64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583970052030:android:06d0aec2bc66faa0800bef",
+        "android_client_info": {
+          "package_name": "com.rizik.training.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583970052030-fmsamo7864md8sofqmi7p5khjq054kc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV9yOzsFFhHKuf8gAmbTnLXt_e0vCorYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583970052030-fmsamo7864md8sofqmi7p5khjq054kc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
